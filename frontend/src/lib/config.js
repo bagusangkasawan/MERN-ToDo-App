@@ -1,2 +1,1 @@
-// local
-export const SERVER_BASE_URL = "http://localhost:4000";
+export const SERVER_BASE_URL = "https://backend-mern-todo.fly.dev";
