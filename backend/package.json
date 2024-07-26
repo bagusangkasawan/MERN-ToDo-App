@@ -1,5 +1,5 @@
 {
-  "name": "manan-todo-app-backend",
+  "name": "todo-app-backend",
   "version": "1.0.0",
   "description": "This is node express mongodb project for my todo backend api",
   "main": "server.js",
