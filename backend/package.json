@@ -14,7 +14,7 @@
       "./jest.setup.js"
     ]
   },
-  "author": "Manan Dhameliya",
+  "author": "Bagus Angkasawan",
   "license": "MIT",
   "dependencies": {
     "bcrypt": "^5.1.1",
