@@ -1,5 +1,5 @@
 {
-  "name": "manan-todo-app-backend",
+  "name": "todo-app-backend",
   "version": "1.0.0",
   "description": "This is node express mongodb project for my todo backend api",
   "main": "server.js",
@@ -26,6 +26,7 @@
     "mongoose": "^8.2.1"
   },
   "devDependencies": {
+    "@flydotio/dockerfile": "^0.5.8",
     "jest": "^29.7.0",
     "mongodb-memory-server": "^9.2.0",
     "nodemon": "^3.1.0",
